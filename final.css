@@ -1,3 +1,4 @@
+<html>
 <head>
   <style>
   h1 {
@@ -5,9 +6,18 @@
       font-size: 24 pt;
       font-family: Comic Sans;
   }
-  </style>
+  body {
+    background-color: LemonChiffon
+}
+  body {
+    font-size; 24 pt;
+    font-family: Comic Sans;
+}
+</style>
   </head>
-  body {background color: white;}
+<body>
+
+
   
   
   
