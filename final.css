@@ -9,9 +9,9 @@
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
   img {
-  width: 50%;
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
+  width: 50%;
 }
       
